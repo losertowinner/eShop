@@ -1,4 +1,4 @@
-# Front-End 🌐
+# Back-End 🪼
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ npm i
 
 ### Installing
 
-Run server
+Run server with debug
 
 ```bash
 npm run dev
